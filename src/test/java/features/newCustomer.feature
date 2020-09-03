@@ -2,7 +2,7 @@ Feature: newCustomer
 
   In order to create new customer
   As a Bank Manager
-  I wan to create new user and open new $ account
+  I wan to create new user and open new account
 
   Scenario Outline: In order to verify create new customer
     Given As a Bank Manager I want to log in on website "http://www.way2automation.com/angularjs-protractor/banking/#/login"
